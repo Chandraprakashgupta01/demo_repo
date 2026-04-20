@@ -1,3 +1,3 @@
 # demo_repo
-i am chandra prakash
+i am chandra prakash Gupta
 From B.tech
